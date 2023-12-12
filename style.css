@@ -1,0 +1,10 @@
+.jadval{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 800px;   
+}
+.jadval td,
+.jadval th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
